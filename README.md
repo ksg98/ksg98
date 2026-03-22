@@ -106,17 +106,6 @@ class Karamjeet:
 
 </div>
 
-## Featured Projects
-
-<div align="center">
-
-[![DataGuardian](https://github-readme-stats.vercel.app/api/pin/?username=ksg98&repo=ecs235A-DataGuardian-AI-Powered-Multi-Modal-Visual-and-Textual-Data-Anonymization-System&theme=github_dark&hide_border=true)](https://github.com/ksg98/ecs235A-DataGuardian-AI-Powered-Multi-Modal-Visual-and-Textual-Data-Anonymization-System)
-[![SeekSight](https://github-readme-stats.vercel.app/api/pin/?username=ksg98&repo=seeksight&theme=github_dark&hide_border=true)](https://github.com/ksg98/seeksight)
-[![ResVision](https://github-readme-stats.vercel.app/api/pin/?username=ksg98&repo=ResVision&theme=github_dark&hide_border=true)](https://github.com/ksg98/ResVision)
-[![ViMax](https://github-readme-stats.vercel.app/api/pin/?username=ksg98&repo=ViMax&theme=github_dark&hide_border=true)](https://github.com/ksg98/ViMax)
-
-</div>
-
 ## GitHub Stats
 
 <div align="center">
